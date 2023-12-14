@@ -14,7 +14,7 @@
 
   - `Linux`: It is the name of the folder
 
-*output*
+### output
 
 ubuntu\@test:\~$ mkdir Linux
 
@@ -43,7 +43,7 @@ ubuntu\@test:\~$ ls
 
   - `Linux`:  It is the name of the folder to be removed
 
-**output**
+### output
 
 ubuntu\@test:\~$ rmdir Linux
 
@@ -77,7 +77,7 @@ ubuntu\@test:\~$ ls
 
   - `Destinationfile`: Destination file means where your files you want to copy 
 
-**Output**
+### Output
 
 ubuntu\@test:\~$ ls
 
@@ -126,7 +126,7 @@ ubuntu\@test:\~$
 
   - `new_name.txt`: New name for the file
 
-**output** 
+## output 
 
 ubuntu\@test:\~$ mv filename1 deeksha
 
@@ -204,7 +204,7 @@ ubuntu\@test:\~/test$
 
   - `demo`: Name of the file to be created
 
-**Output**
+### Output 
 
 ubuntu\@test:\~$ touch demo
 
