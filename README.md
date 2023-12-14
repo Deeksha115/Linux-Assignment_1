@@ -1,3 +1,5 @@
+# <p style="center">Linux Assignment 1 </p>
+
 # 1. Make a Directory:
 
 - **Command Definition:**
