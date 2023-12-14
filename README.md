@@ -27,7 +27,7 @@ ubuntu\@test:\~$ ls
 \
 
 
-**2. Remove a Directory:**
+# 2. Remove a Directory:
 
 - **Command Definition:**
 
@@ -59,7 +59,7 @@ ubuntu\@test:\~$ ls
 \
 
 
-**3. Make a Copy of a File:**
+# 3. Make a Copy of a File:
 
 - **Command Definition:**
 
@@ -102,7 +102,7 @@ ubuntu\@test:\~$
 \
 
 
-**4. Move or Rename a File:**
+# 4. Move or Rename a File:
 
 - **Command Definition:**
 
@@ -188,7 +188,7 @@ ubuntu\@test:\~/test$
 \
 
 
-**5. Create an Empty File:**
+# 5. Create an Empty File:
 
 - **Command Definition:**
 
@@ -216,7 +216,7 @@ ubuntu\@test:\~$
 
 ![](https://lh7-us.googleusercontent.com/ZinIyTHXtjc0y0p6xjR92QYWCdRoIWTrVRFSL0zUrXv9RLtXZUFXUOKXfveocQMMvj6b0Zf5VKsrfKW3CEZe4xLVHmClCa4O8_WoJpM23teRHbtIPtUbEXWS32mpRmdr-7uCD15GgoR7rX10Tmss4kM)
 
-**6. Remove Multiple Files with a Single Command:**
+# 6. Remove Multiple Files with a Single Command:
 
 - **Command Definition:**
 
@@ -259,7 +259,7 @@ ubuntu\@test:\~$
 \
 
 
-**7. Remove Content from a Folder Without Removing the Folder:**
+# 7. Remove Content from a Folder Without Removing the Folder:
 
 - **Command Definition:**
 
@@ -286,7 +286,7 @@ ubuntu\@test:\~$
 \
 
 
-**8. Create Multiple Folders (a-z) with a Single Command:**
+# 8. Create Multiple Folders (a-z) with a Single Command:
 
 - **Command Definition:**
 
