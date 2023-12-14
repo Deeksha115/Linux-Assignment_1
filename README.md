@@ -1,4 +1,4 @@
-**1. Make a Directory:**
+# 1. Make a Directory:
 
 - **Command Definition:**
 
