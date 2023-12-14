@@ -6,7 +6,7 @@
 
 - **Command:**
 
-  - `mkdir Linux`
+  - `mkdir`: Linux
 
 - **Description:**
 
@@ -14,7 +14,7 @@
 
   - `Linux`: It is the name of the folder
 
-**output**
+*output*
 
 ubuntu\@test:\~$ mkdir Linux
 
