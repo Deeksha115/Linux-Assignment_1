@@ -24,8 +24,6 @@ ubuntu\@test:\~$ ls
 
 ![](https://lh7-us.googleusercontent.com/XsLMWlCcX1CuSoIdm8hfjh8pp05BKJcWYnlnvUTHkq78jxWJ6Zxfn1Qr16x3Hi-3gKGJBusZggFD15miDejZs7VNYNQOJkOQlWtNloV2zpfFwyUF0PzMRdo41xp9PRP48eX2okt4TS-m4GLdCqovBqI)
 
-\
-
 
 # 2. Remove a Directory:
 
