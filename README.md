@@ -51,13 +51,6 @@ ubuntu\@test:\~$ ls
 
 ****![](https://lh7-us.googleusercontent.com/Zde4lgpjp9lBYQF2F6HZPLqG-KeMrdzzwqYlsFO_PRKmVQ2-sgwmY5sSXkRP8LPHYZVvGhwm-ANk4uXUMgrTFL4DXm9uDlEsr8E-7c7mvOoyMrtlC0pwi0dpQ4MKb4hOWCiJOqB1iBwKFtehAdZZ9hw)****
 
-\
-\
-\
-\
-\
-\
-
 
 # 3. Make a Copy of a File:
 
