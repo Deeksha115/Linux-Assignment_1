@@ -88,12 +88,6 @@ ubuntu\@test:\~$
 
 - In this output i have a file which name is filename1 and i want to copy into filename2 so used the cp command the filename1 is copy into filname 2 
 
-\
-\
-\
-\
-\
-
 
 # 4. Move or Rename a File:
 
@@ -175,11 +169,6 @@ ubuntu\@test:\~/test$
 
 - ls 
 
-\
-\
-\
-\
-
 
 # 5. Create an Empty File:
 
@@ -225,11 +214,6 @@ ubuntu\@test:\~$
 
   - `file1.txt file2.txt`: Names of the files to be removed
 
-\
-\
-\
-
-
 ubuntu\@test:\~$ ls
 
 demo  filename1  filename2  filename3  filename4  test
@@ -247,10 +231,6 @@ ubuntu\@test:\~$
 - Here i have 5 files which is demo ,filename1, filename2 ,filename3, filename4 and i want to remove or delete it with the single command line and the command is given below 
 
 - rm demo filename1 filename2 filename3  filename4 
-
-\
-\
-
 
 # 7. Remove Content from a Folder Without Removing the Folder:
 
@@ -274,11 +254,6 @@ ubuntu\@test:\~$
 
 - rm -rf /home/ubuntu/test/demo
 
-\
-\
-\
-
-
 # 8. Create Multiple Folders (a-z) with a Single Command:
 
 - **Command Definition:**
@@ -295,12 +270,6 @@ ubuntu\@test:\~$
 
   - `{a..z}`: Range of folder names from 'a' to 'z'
 
-\
-\
-\
-\
-
-
 ubuntu\@test:\~$ mkdir {a..z}
 
 ubuntu\@test:\~$ ls
@@ -308,9 +277,5 @@ ubuntu\@test:\~$ ls
 a  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p  q  r  s  t  test  u  v  w  x  y  z
 
 ubuntu\@test:\~$
-
-\
-\
-
 
 ![](https://lh7-us.googleusercontent.com/MFuur1QXPYN2MTHOyx-aedWDle46wK8o4XUpXMNQU_p9yOrNcHcEdbJDyXnx0lZYI850gAzCAjH8w-Es3w3XFt-Rv2Ygvnr2jnu0pRYWGU8-KzsRWgqLhUyodDtXuGOISkDvW4Wfk-FQNh1ZYCxSUyw)
